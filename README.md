@@ -20,3 +20,9 @@ A Python-based File Organizer with a Tkinter GUI, Light/Dark theme support, and 
 **File Organizer** is a Python-based desktop application that helps you clean and manage your folders with just one click.  
 It automatically categorizes files into subfolders like:
 
+## 👨‍💻 Author
+**Aakash Kumar Saw**  
+🎓 B.Tech CSE (AI & ML), D. Y. Patil University  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/akash-kumar-saw-bb1630258)
+
